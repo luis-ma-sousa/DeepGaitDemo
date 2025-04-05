@@ -1,4 +1,4 @@
-# DeepGaitDemo – ML Classifier for Parkinson’s Motor Deficits
+# DeepWalkDemo – ML Classifier for Parkinson’s Motor Deficits
 🔒 *This is a demo version of the project. Full access is available upon request due to unpublished data.*
 
 
@@ -28,7 +28,7 @@ From (Mendes et al., 2015).
 📥 The raw data used in this project are output files from MouseWalker tracking, later processed for machine learning classification tasks.
 
 ## 🧠 Project Overview
-This project was developed during my PhD under the supervision of [Prof. Hugo Vicente Miranda](https://www.linkedin.com/in/hugo-vicente-miranda-3b5b661/) to explore the potential of gait-based behavioral markers for neurodegenerative disease classification. Using extracted locomotor data, I trained and evaluated multiple classification models, achieving 91% accuracy with a neural network.
+This project was developed during my PhD under the supervision of [Prof. Hugo Vicente Miranda](https://www.linkedin.com/in/hugo-vicente-miranda-3b5b661/) to explore the potential of -based behavioral markers for neurodegenerative disease classification. Using extracted locomotor data, I trained and evaluated multiple classification models, achieving 91% accuracy with a neural network.
 
 ## 🔧 Tools & Technologies
 - Python (Jupyter Notebooks)
@@ -37,7 +37,7 @@ This project was developed during my PhD under the supervision of [Prof. Hugo Vi
 
 ## 📁 Project Structure
 ```
-DeepGait/
+Deep/
 ├── data/               
 ├── notebooks/          
 └── README.md          
